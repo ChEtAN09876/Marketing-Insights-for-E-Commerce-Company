@@ -1,4 +1,4 @@
-# Marketing-Insights-for-E-Commerce-Company
+# Marketing Insights for E Commerce Company
 
 # Problem statement:
 A rapidly growing e-commerce company aims to transition from intuition-based marketing to a data-driven approach. By analyzing customer demographics, transaction data, marketing spend, and discount details from 2019, the company seeks to gain a comprehensive understanding of customer behavior. The objectives are to optimize marketing campaigns across various channels, leverage data insights to enhance customer retention, predict customer lifetime value, and ultimately drive sustainable revenue growth.
